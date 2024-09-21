@@ -16,5 +16,20 @@ public class Sample {
 		System.out.println("Meth 3");
 
 	}
+	
+	private void ac() {
+
+		System.out.println("Air Cooler");
+	}
+	
+	private void mixi() {
+		System.out.println("Juice");
+
+	}
+	
+	private void fan() {
+		System.out.println("cooling");
+
+	}
 
 }
