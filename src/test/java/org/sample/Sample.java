@@ -16,5 +16,20 @@ public class Sample {
 		System.out.println("Meth 3");
 
 	}
+	
+	private void tubeLight() {
+		System.out.println("Tube Light");
+
+	}
+	
+	private void bulb() {
+		System.out.println("Bulb");
+
+	}
+	
+	private void tv() {
+		System.out.println("TV");
+
+	}
 
 }
